@@ -1,0 +1,2 @@
+Feature Name: Dark mode support  
+Description: Add a dark mode option to the application
